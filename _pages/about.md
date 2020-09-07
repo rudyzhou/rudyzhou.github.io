@@ -22,15 +22,15 @@ I am generally interested in **Combinatorial Optimization**. This includes:
 # Publications
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
-arXiv:2009.00808 [cs.DS]. [https://arxiv.org/abs/2009.00808](https://arxiv.org/abs/2009.00808)
+arXiv:2009.00808 [cs.DS]. [(link)](https://arxiv.org/abs/2009.00808)
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
-Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [https://doi.org/10.1016/bs.mcb.2020.04.006](https://doi.org/10.1016/bs.mcb.2020.04.006)
+Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [(link)](https://doi.org/10.1016/bs.mcb.2020.04.006)
 
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
-Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:456-466, 2020. [http://proceedings.mlr.press/v108/im20a](http://proceedings.mlr.press/v108/im20a)
+Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:456-466, 2020. [(link)](http://proceedings.mlr.press/v108/im20a)
 
 # Teaching
 * Teaching Assistant at Carnegie Mellon University: 
