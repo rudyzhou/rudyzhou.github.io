@@ -20,6 +20,9 @@ I am generally interested in **Combinatorial Optimization**. This includes:
 * Algorithms for stochastic inputs **(Stochastic Optimization)**
 
 # Publications
+
+Author order is alphabetical by last name unless otherwise noted by (*).
+
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
 arXiv:2009.00808 [cs.DS]. [(link)](https://arxiv.org/abs/2009.00808)
