@@ -17,7 +17,7 @@ Previously, I obtained a MS in Computer Science and BS in Mathematics from Washi
 I am generally interested in **Combinatorial Optimization**. This includes:
 * **Approximation Algorithms** for fundamental clustering and scheduling problems
 * Studying the power of **Convex Relaxations** for these problems
-* Algorithms for the setting of stochastic inputs **(Stochastic Optimization)**
+* Algorithms for stochastic inputs **(Stochastic Optimization)**
 
 # Publications
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
@@ -26,7 +26,8 @@ arXiv:2009.00808 [cs.DS]. [(link)](https://arxiv.org/abs/2009.00808)
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
-Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [(link)](https://doi.org/10.1016/bs.mcb.2020.04.006)
+Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [(link)](https://doi.org/10.1016/bs.mcb.2020.04.006) <br/>
+[(GitHub)](https://github.com/rudyzhou/Dynamic_Kymograph) 
 
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
