@@ -12,6 +12,8 @@ I am a third-year PhD student in the Operations Research Department at Carnegie 
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
+Here is my [CV](https://rudyzhou.github.io/files/rudy_cv.pdf). My e-mail is: _rbz@andrew.cmu.edu_.
+
 # Research Interests
 
 I am generally interested in **Combinatorial Optimization**. This includes:
@@ -30,11 +32,12 @@ arXiv:2009.00808 [cs.DS]. [(link)](https://arxiv.org/abs/2009.00808)
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
 Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [(link)](https://doi.org/10.1016/bs.mcb.2020.04.006) <br/>
-[(GitHub)](https://github.com/rudyzhou/Dynamic_Kymograph) 
+[(pdf)](https://rudyzhou.github.io/files/microtubule_MCB.pdf) [(GitHub)](https://github.com/rudyzhou/Dynamic_Kymograph)
 
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
-Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:456-466, 2020. [(link)](http://proceedings.mlr.press/v108/im20a)
+Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:456-466, 2020. [(link)](http://proceedings.mlr.press/v108/im20a) <br/>
+[(Full Version pdf)](https://rudyzhou.github.io/files/clustering_aistats_full.pdf) [(Slides)](https://rudyzhou.github.io/files/clustering_presentation.pdf)
 
 # Teaching
 * Teaching Assistant at Carnegie Mellon University: 
