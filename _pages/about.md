@@ -37,7 +37,7 @@ Methods in Cell Biology, Academic Press, 2020. ISSN 0091-679X. [(link)](https://
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
 Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:456-466, 2020. [(link)](http://proceedings.mlr.press/v108/im20a) <br/>
-[(Full Version pdf)](https://rudyzhou.github.io/files/clustering_aistats_full.pdf) [(Slides)](https://rudyzhou.github.io/files/clustering_presentation.pdf)
+[(Full Version pdf)](https://rudyzhou.github.io/files/clustering_aistats_full.pdf) [(Slides)](https://rudyzhou.github.io/files/clustering_slides.pdf)
 
 # Teaching
 * Teaching Assistant at Carnegie Mellon University: 
