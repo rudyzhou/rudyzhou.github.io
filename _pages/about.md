@@ -16,11 +16,15 @@ Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_10_21.pdf). My e-mail i
 
 # Research Interests
 
-Currently, my main interest is **Optimization under Uncertainty** including **Online** and **Stochstic** models. I am very interested in developing new techincal tools to understand and leverage **Adaptivity** in stochastic models. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
+Currently, my main interest is **Optimization under Uncertainty** including **Online**, **Stochstic**, and **with Predictions**. I am very interested in developing new techincal tools to understand and leverage **Adaptivity** in stochastic models. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
 
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
+
+* Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
+_A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
+In Submission. [(Link)](https://arxiv.org/abs/2111.06564)
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
