@@ -28,7 +28,7 @@ In Submission. [(Link)](https://arxiv.org/abs/2111.06564)
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
-Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021).
+Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021). [(Full Version Pdf)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf)
 
 * Sungjin Im, Benjamin Moseley, Rudy Zhou<br/>
 _The Matroid Cup Game_<br/>
