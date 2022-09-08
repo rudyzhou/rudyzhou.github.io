@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_10_21.pdf). My e-mail is: _rbz@andrew.cmu.edu_. **I am on the job market for both academia and research positions in industry.**
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-6-22.pdf). My e-mail is: _rbz@andrew.cmu.edu_. **I am on the job market for both academia and research positions in industry.**
 
 # Research Interests
 
@@ -40,7 +40,7 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
-IPCO 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564)
+IPCO 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
@@ -52,7 +52,7 @@ Operations Research Letters, 2021. [(Link)](https://doi.org/10.1016/j.orl.2021.0
   
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
-ICALP 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808)
+ICALP 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
