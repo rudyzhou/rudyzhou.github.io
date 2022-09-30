@@ -43,11 +43,12 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
-IPCO 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
+Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf) <br/>
+In submission to Math Programming
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
-NeurIPS 2021. [(Link)](https://proceedings.neurips.cc/paper/2021/hash/250dd56814ad7c50971ee4020519c6f5-Abstract.html) [(Full Version)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf)
+Neural Information Processing Systems (NeurIPS) 2021. [(Link)](https://proceedings.neurips.cc/paper/2021/hash/250dd56814ad7c50971ee4020519c6f5-Abstract.html) [(Full Version)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf)
 
 * Sungjin Im, Benjamin Moseley, Rudy Zhou<br/>
 _The Matroid Cup Game_<br/>
@@ -55,7 +56,8 @@ Operations Research Letters, 2021. [(Link)](https://doi.org/10.1016/j.orl.2021.0
   
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
-ICALP 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
+International Colloquium on Automata, Languages and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf) <br/>
+In submission to Mathematics of Operations Research
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
@@ -63,7 +65,7 @@ Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.0
 
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
-AISTATS 2020. [(Link)](http://proceedings.mlr.press/v108/im20a) [(Full Version)](https://arxiv.org/abs/2003.02433) [(Slides)](https://rudyzhou.github.io/files/clustering_slides.pdf)
+Artificial Intelligence and Statistics (AISTATS) 2020. [(Link)](http://proceedings.mlr.press/v108/im20a) [(Full Version)](https://arxiv.org/abs/2003.02433) [(Slides)](https://rudyzhou.github.io/files/clustering_slides.pdf)
 
 # Teaching
 * Main Instructor at Carnegie Mellon University: 
