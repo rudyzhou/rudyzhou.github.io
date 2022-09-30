@@ -14,11 +14,14 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-6-22.pdf). My e-mail is: _rbz@andrew.cmu.edu_. **I am on the job market for both academia and research positions in industry.**
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-30.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+
+**I am on the job market for both academia and research positions in industry.** 
+**I will be attending the 2022 INFORMS Annual Meeting and presenting my job talk there in session TC44 on October 18, 12:30 PM - 1:45 PM in CC - Room 206. I am avaiable to meet at INFORMS from October 16 - 18.**
 
 # Research Interests
 
-Currently, my main interests are **Optimization under Uncertainty** and **Data-driven Optimization**. I am very interested in developing new technical tools to design and analyze algorithms for fundamental problems in these areas. Some particular models I am investigating are **stochastic**, **online**, and **with predictions**. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
+Currently, my main interests are **Optimization under Uncertainty** and **Data-driven Optimization**. I am very interested in developing new models and technical tools to design and analyze algorithms for fundamental problems in these areas. Some particular models I am investigating are **stochastic**, **online**, and **with predictions**. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
 
 # Preprints
 
