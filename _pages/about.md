@@ -28,10 +28,6 @@ Currently, my main interests are **Optimization under Uncertainty** and **Data-d
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 	_Online Demand Scheduling with Failovers_ <br/>
 	arXiv 2022. [(Link)](https://arxiv.org/abs/2209.00710)
-  
-* Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
-	_Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
-	arXiv, 2022. [(Link)](https://arxiv.org/abs/2208.13696)
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 	_Configuration Balancing for Stochastic Requests_ <br/>
@@ -40,6 +36,10 @@ Currently, my main interests are **Optimization under Uncertainty** and **Data-d
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
+
+* Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
+_Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
+Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://arxiv.org/abs/2208.13696)
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
