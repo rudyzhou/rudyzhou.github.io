@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-20.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-1-23.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
 
 **I am on the job market for both academia and research positions in industry.**
 
@@ -28,13 +28,13 @@ Currently, my main interests are **Optimization under Uncertainty** and **Data-d
 	_Online Demand Scheduling with Failovers_ <br/>
 	arXiv 2022. [(Link)](https://arxiv.org/abs/2209.00710)
 
-* Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
-	_Configuration Balancing for Stochastic Requests_ <br/>
-	arXiv, 2022. [(Link)](https://arxiv.org/abs/2208.13702)
-
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
+
+* Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
+_Configuration Balancing for Stochastic Requests_ <br/>
+Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://arxiv.org/abs/2208.13702)
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
 _Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
