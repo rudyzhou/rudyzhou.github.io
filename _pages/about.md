@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th (and final) year PhD student in the Operations Research Department at Carnegie Mellon University. In particular, I am a student in the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/). My advisor is [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/).
+I am currently a postdoc in the Operations Research Department at Carnegie Mellon University. I graduated in May 2023 from the same department through the the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/), where I was advised by [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/). My thesis [_On Combinatorial and Stochastic Optimization_](https://kilthub.cmu.edu/articles/thesis/On_Combinatorial_and_Stochastic_Optimization/23615430) won the **2023 Gerald L. Thompson Doctoral Dissertation Award in Management Science**.
 
 In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Operations Research (CORE) group](https://www.microsoft.com/en-us/research/group/cloud-operations-research-core/), where my mentor was [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/).
 
@@ -20,30 +20,27 @@ Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-1-23.pdf). My e-mail is
 
 # Research Interests
 
-Currently, my main interests are **Optimization under Uncertainty** and **Data-driven Optimization**. I am very interested in developing new models and technical tools to design and analyze algorithms for fundamental problems in these areas. Some particular models I am investigating are **stochastic**, **online**, and **with predictions**. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
-
-# Preprints
-
-* Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
-	_Online Demand Scheduling with Failovers_ <br/>
-	arXiv 2022. [(Link)](https://arxiv.org/abs/2209.00710)
+Broadly I am interested in operations research and theoretical computer science. I am working on developing new technical tools to design algorithms for fundamental optimization problems with a focus on online and stochastic models. I am also working on applying these algorithms to applications in logistics and the cloud computing supply chain.
 
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
 
+* Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
+_Online Demand Scheduling with Failovers_ <br/>
+International Colloquium on Automata, Languages, and Programming (ICALP) 2023. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2023/18144/) [(Full Version)](https://arxiv.org/abs/2209.00710)
+
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 _Configuration Balancing for Stochastic Requests_ <br/>
-Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://arxiv.org/abs/2208.13702)
+Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10) [(Full Version)](https://arxiv.org/abs/2208.13702)
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
 _Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
-Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://arxiv.org/abs/2208.13696)
+Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/doi/10.1137/1.9781611977554.ch73) [(Full Version)](https://arxiv.org/abs/2208.13696)
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
 Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf) <br/>
-In submission to Math Programming
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
@@ -56,7 +53,6 @@ Operations Research Letters, 2021. [(Link)](https://doi.org/10.1016/j.orl.2021.0
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
 International Colloquium on Automata, Languages and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf) <br/>
-In submission to Mathematics of Operations Research
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
@@ -68,7 +64,7 @@ Artificial Intelligence and Statistics (AISTATS) 2020. [(Link)](http://proceedin
 
 # Teaching
 * Main Instructor at Carnegie Mellon University: 
-  * MBA Calculus Fundamentals (Spring 2022 Session 1, Spring 2022 Session 2)
+  * MBA Calculus Fundamentals (Spring 2022 Session 1, Spring 2022 Session 2, Spring 2023 Session 2)
 * Teaching Assistant at Carnegie Mellon University: 
   * Graph Theory (Fall 2020, Fall 2021)
 * Teaching Assistant at Washington University in St. Louis:
