@@ -28,23 +28,23 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _Online Demand Scheduling with Failovers_ <br/>
-International Colloquium on Automata, Languages, and Programming (ICALP) 2023. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2023/18144/) [(Full Version)](https://arxiv.org/abs/2209.00710)
+International Colloquium on Automata, Languages, and Programming (ICALP) 2023. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2023/18144/) [(Full Version)](https://arxiv.org/abs/2209.00710) [(Slides)](https://rudyzhou.github.io/files/online-failover-icalp-20.pdf)
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 _Configuration Balancing for Stochastic Requests_ <br/>
-Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10) [(Full Version)](https://arxiv.org/abs/2208.13702)
+Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10) [(Full Version)](https://arxiv.org/abs/2208.13702) [(Slides)](https://rudyzhou.github.io/files/load-balance-ipco-23-sides.pdf)
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
 _Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
-Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/doi/10.1137/1.9781611977554.ch73) [(Full Version)](https://arxiv.org/abs/2208.13696)
+Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/doi/10.1137/1.9781611977554.ch73) [(Full Version)](https://arxiv.org/abs/2208.13696) [(Slides)](https://rudyzhou.github.io/files/completion-time-slides.pdf)
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
-Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf) <br/>
+Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
-Neural Information Processing Systems (NeurIPS) 2021. [(Link)](https://proceedings.neurips.cc/paper/2021/hash/250dd56814ad7c50971ee4020519c6f5-Abstract.html) [(Full Version)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf)
+Neural Information Processing Systems (NeurIPS) 2021. [(Link)](https://proceedings.neurips.cc/paper/2021/hash/250dd56814ad7c50971ee4020519c6f5-Abstract.html) [(Full Version)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf) [(Slides)](https://rudyzhou.github.io/files/correlation-clustering-slides.pdf)
 
 * Sungjin Im, Benjamin Moseley, Rudy Zhou<br/>
 _The Matroid Cup Game_<br/>
@@ -52,7 +52,7 @@ Operations Research Letters, 2021. [(Link)](https://doi.org/10.1016/j.orl.2021.0
   
 * Anupam Gupta, Ben Moseley, Rudy Zhou <br/>
 _Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
-International Colloquium on Automata, Languages and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf) <br/>
+International Colloquium on Automata, Languages and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/) [(Full Version)](https://arxiv.org/abs/2009.00808) [(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
 
 * Rudy Zhou, Han Liu, Tao Ju, Ram Dixit (*) <br/>
 _Quantifying the polymerization dynamics of plant cortical microtubules using kymograph analysis_ <br/>
