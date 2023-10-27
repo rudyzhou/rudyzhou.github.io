@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-23.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-27-23.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
 
 **I am on the job market for both academia and research positions in industry.**
 
@@ -40,7 +40,8 @@ Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/do
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
-Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
+Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf) <br/>
+Minor Revisions at Math Programming
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
