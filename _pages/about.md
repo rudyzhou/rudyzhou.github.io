@@ -41,7 +41,7 @@ Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/do
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
 Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30) [(Full Version)](https://arxiv.org/abs/2111.06564) [(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf) <br/>
-Minor Revisions at Math Programming
+Accepted at Math Programming
 
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
