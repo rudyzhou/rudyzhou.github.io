@@ -28,6 +28,12 @@ Recently, I am excited about stochastic combinatorial optimization, where we onl
 
 Author order is alphabetical by last name unless otherwise noted by (*).
 
+## Preprints
+
+* Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
+_The Power of Migrations in Dynamic Bin Packing_ <br/>
+Preprint 2024. [(Link)](https://arxiv.org/abs/2408.13178v1)
+
 ## Journal Publications
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
@@ -35,7 +41,7 @@ _Configuration Balancing for Stochastic Requests_ <br/>
 Mathematical Programming B 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-024-02132-w) <br/>
 (Conference Version) Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10)
 [(arXiv)](https://arxiv.org/abs/2208.13702)
-[(Slides)](https://rudyzhou.github.io/files/load-balance-ipco-23-sides.pdf) <br/>
+[(Slides)](https://rudyzhou.github.io/files/load-balance-ipco-23-sides.pdf)
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/> 
 _Structural Iterative Rounding for Generalized $k$-Median Problems_ <br/>
@@ -43,7 +49,7 @@ Mathematical Programming A 2024. [(Link)](https://link.springer.com/article/10.1
 (Conference Version) International Colloquium on Automata, Languages
 and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/)
 [(arXiv)](https://arxiv.org/abs/2009.00808)
-[(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf) <br/>
+[(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
