@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-8-8-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-1-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
 
 **I am on the job market for both academia and research positions in industry.**
 
