@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-9-1-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-8-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
 
 **I am on the job market for both academia and research positions in industry.**
 
@@ -32,31 +32,21 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _The Power of Migrations in Dynamic Bin Packing_ <br/>
-Preprint 2024. [(Link)](https://arxiv.org/abs/2408.13178v1)
+Conditionally accepted at Sigmetrics 2025. [(Link)](https://arxiv.org/abs/2408.13178v1)
 
 ## Journal Publications
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 _Configuration Balancing for Stochastic Requests_ <br/>
-Mathematical Programming B 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-024-02132-w) <br/>
-(Conference Version) Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10)
-[(arXiv)](https://arxiv.org/abs/2208.13702)
-[(Slides)](https://rudyzhou.github.io/files/load-balance-ipco-23-sides.pdf)
+Mathematical Programming B 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-024-02132-w)
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/> 
-_Structural Iterative Rounding for Generalized $k$-Median Problems_ <br/>
-Mathematical Programming A 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-024-02119-7) <br/>
-(Conference Version) International Colloquium on Automata, Languages
-and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/)
-[(arXiv)](https://arxiv.org/abs/2009.00808)
-[(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
+_Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
+Mathematical Programming A 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-024-02119-7)
 
 * Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
 _A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
-Mathematical Programming B 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-023-02045-0) <br/>
-(Conference Version) Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30)
-[(arXiv)](https://arxiv.org/abs/2111.06564)
-[(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
+Mathematical Programming B 2024. [(Link)](https://link.springer.com/article/10.1007/s10107-023-02045-0)
 
 * Sungjin Im, Benjamin Moseley, Rudy Zhou<br/>
 _The Matroid Cup Game_<br/>
@@ -72,13 +62,31 @@ Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.0
 _Online Demand Scheduling with Failovers_ <br/>
 International Colloquium on Automata, Languages, and Programming (ICALP) 2023. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2023/18144/) [(arXiv)](https://arxiv.org/abs/2209.00710) [(Slides)](https://rudyzhou.github.io/files/online-failover-icalp-20.pdf)
 
+* Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
+_Configuration Balancing for Stochastic Requests_ <br/>
+Integer Programming and Combinatorial Optimization (IPCO) 2023. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_10)
+[(arXiv)](https://arxiv.org/abs/2208.13702)
+[(Slides)](https://rudyzhou.github.io/files/load-balance-ipco-23-sides.pdf)
+
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
 _Minimizing Completion Times for Stochastic Jobs via Batched Free Times_ <br/>
 Symposium on Discrete Algorithms (SODA) 2023. [(Link)](https://epubs.siam.org/doi/10.1137/1.9781611977554.ch73) [(arXiv)](https://arxiv.org/abs/2208.13696) [(Slides)](https://rudyzhou.github.io/files/completion-time-slides.pdf)
 
+* Benjamin Moseley, Kirk Pruhs, Clifford Stein, Rudy Zhou <br/>
+_A Competitive Algorithm for Throughput Maximization on Identical Machines_<br/>
+Integer Programming and Combinatorial Optimization (IPCO) 2022. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_30)
+[(arXiv)](https://arxiv.org/abs/2111.06564)
+[(Slides)](https://rudyzhou.github.io/files/online_completion_slides_25_IPCO.pdf)
+
 * Silvio Lattanzi, Benjamin Moseley, Sergei Vassilvitskii, Yuyan Wang, Rudy Zhou <br/>
 _Robust Online Correlation Clustering_<br/>
 Neural Information Processing Systems (NeurIPS) 2021. [(Link)](https://proceedings.neurips.cc/paper/2021/hash/250dd56814ad7c50971ee4020519c6f5-Abstract.html) [(Full Version)](https://rudyzhou.github.io/files/correlation_clustering_neurips.pdf) [(Slides)](https://rudyzhou.github.io/files/correlation-clustering-slides.pdf)
+
+* Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/> 
+_Structural Iterative Rounding for Generalized k-Median Problems_ <br/>
+International Colloquium on Automata, Languages and Programming (ICALP) 2021. [(Link)](https://drops.dagstuhl.de/opus/volltexte/2021/14146/)
+[(arXiv)](https://arxiv.org/abs/2009.00808)
+[(Slides)](https://rudyzhou.github.io/files/icalp_long_presentation.pdf)
 
 * Sungjin Im, Mahshid Montazer Qaem, Benjamin Moseley, Xiaorui Sun, Rudy Zhou <br/>
 _Fast Noise Removal for k-Means Clustering_ <br/>
