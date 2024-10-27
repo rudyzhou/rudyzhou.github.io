@@ -14,7 +14,7 @@ In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Oper
 
 Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-8-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-27-24.pdf). My e-mail is: _rbz@andrew.cmu.edu_. Here is my [Google Scholar](https://scholar.google.com/citations?user=DCB2z-cAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/260/0730.html).
 
 **I am on the job market for both academia and research positions in industry.**
 
@@ -28,13 +28,11 @@ Recently, I am excited about stochastic combinatorial optimization, where we onl
 
 Author order is alphabetical by last name unless otherwise noted by (*).
 
-## Preprints
+## Journal Publications
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _The Power of Migrations in Dynamic Bin Packing_ <br/>
-Conditionally accepted at Sigmetrics 2025. [(Link)](https://arxiv.org/abs/2408.13178v1)
-
-## Journal Publications
+Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS) 2024 (to appear). [(Link)](https://arxiv.org/abs/2408.13178v1)
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 _Configuration Balancing for Stochastic Requests_ <br/>
@@ -57,6 +55,10 @@ _Quantifying the polymerization dynamics of plant cortical microtubules using ky
 Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.006) [(Pdf)](https://rudyzhou.github.io/files/microtubule_MCB.pdf) [(GitHub)](https://github.com/rudyzhou/Dynamic_Kymograph)
 
 ## Conference Publications
+
+* Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
+_The Power of Migrations in Dynamic Bin Packing_ <br/>
+Sigmetrics 2025 (to appear). [(Link)](https://arxiv.org/abs/2408.13178v1)
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _Online Demand Scheduling with Failovers_ <br/>
