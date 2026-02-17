@@ -8,31 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in the Operations Research Department at Carnegie Mellon University. I graduated in May 2023 from the same department through the the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/), where I was advised by [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/). My thesis [_On Combinatorial and Stochastic Optimization_](https://kilthub.cmu.edu/articles/thesis/On_Combinatorial_and_Stochastic_Optimization/23615430) won the **2023 Gerald L. Thompson Doctoral Dissertation Award in Management Science**.
+I am a Data and Applied Scientist at Microsoft. I got my PhD from the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/) at Carnegie Mellon, where I was advised by [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/). My thesis [_On Combinatorial and Stochastic Optimization_](https://kilthub.cmu.edu/articles/thesis/On_Combinatorial_and_Stochastic_Optimization/23615430) won the **2023 Gerald L. Thompson Doctoral Dissertation Award in Management Science**.
 
-In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Operations Research (CORE) group](https://www.microsoft.com/en-us/research/group/cloud-operations-research-core/), where my mentor was [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/).
+In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Operations Research (CORE) group](https://www.microsoft.com/en-us/research/group/cloud-operations-research-core/), where my mentor was [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/). Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
-
-Here is my [CV](https://rudyzhou.github.io/files/rudy-cv-10-27-24.pdf). My e-mail is: _rudyzhou1234@gmail.com_. Here is my [Google Scholar](https://scholar.google.com/citations?user=Pm-sbqQAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/260/0730.html).
-
-**I am on the job market for both academia and research positions in industry.**
+Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_2_17_26.pdf),  [Google Scholar](https://scholar.google.com/citations?user=Pm-sbqQAAAAJ&hl=en), and [DBLP](https://dblp.org/pid/260/0730.html).
 
 # Research Interests
 
-I am broadly interested in algorithm design with a focus on optimization under uncertainty. I design provably good algorithms for fundamental optimization problems in areas such as scheduling, resource allocation, and data analysis.
-
-Recently, I am excited about stochastic combinatorial optimization, where we only have distributional information about the input. In this setting, I am thinking about new algorithms, hardness of approximation, adaptivity gaps, and imperfect information.
+I am broadly interested in algorithms and optimization (especially combinatorial and stochastic) in both theory and practice. On the theory side, recently I am interested in adaptivity gaphs and hardness in stochastic combinatorial optimization. On the applied side, I build end-to-end optimization tools to improve decision making in the cloud computing supply chain.
 
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
 
+## Preprints
+
+* Benjamin Moseley, Kirk Pruhs, Marc Uetz, Rudy Zhou  <br/>
+_Minimizing Completion Times of Stochastic Jobs on Parallel Machines is Hard_ <br/>
+In submission. [(Link)](https://arxiv.org/abs/2601.17425)
+
 ## Journal Publications
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _The Power of Migrations in Dynamic Bin Packing_ <br/>
-Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS) 2024 (to appear). [(Link)](https://arxiv.org/abs/2408.13178v1)
+Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS) 2024. [(Link)](https://dl.acm.org/doi/abs/10.1145/3700435)
+[(arXiv)](https://arxiv.org/abs/2408.13178v1)
 
 * Franziska Eberle, Anupam Gupta, Nicole Megow, Benjamin Moseley, Rudy Zhou <br/>
 _Configuration Balancing for Stochastic Requests_ <br/>
@@ -56,9 +57,20 @@ Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.0
 
 ## Conference Publications
 
+* Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
+_Bayesian Probing on Graphs_ <br/>
+Integer Programming and Combinatorial Optimization (IPCO) 2026 (To appear)
+
+* Benjamin Moseley, Heather Newman, Kirk Pruhs, Rudy Zhou <br/>
+_Robust Gittins for Stochastic Scheduling_ <br/>
+Sigmetrics 2025. [(Link)](https://dl.acm.org/doi/abs/10.1145/3744970.3727315)
+[(arXiv)](https://arxiv.org/abs/2504.10743)
+
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _The Power of Migrations in Dynamic Bin Packing_ <br/>
-Sigmetrics 2025 (to appear). [(Link)](https://arxiv.org/abs/2408.13178v1)
+Sigmetrics 2025. [(Link)](https://dl.acm.org/doi/abs/10.1145/3744970.3727319)
+[(arXiv)](https://arxiv.org/abs/2408.13178v1)
+[(Slides)](https://rudyzhou.github.io/files/bin-pack-25.pdf)
 
 * Konstantina Mellou, Marco Molinaro, Rudy Zhou <br/>
 _Online Demand Scheduling with Failovers_ <br/>
@@ -98,9 +110,4 @@ Artificial Intelligence and Statistics (AISTATS) 2020. [(Link)](http://proceedin
 * Main Instructor at Carnegie Mellon University:
   * MSBA Machine Learning Fundamentals (Course Designer, Spring 2024)  
   * MBA Calculus Fundamentals (Spring 2022, Spring 2023)
-* Teaching Assistant at Carnegie Mellon University: 
-  * Graph Theory (Fall 2020, Fall 2021)
-* Teaching Assistant at Washington University in St. Louis:
-  * Computational Geometry (Fall 2017)
-  * Object-Oriented Software Development Laboratory (Spring 2017)
 
