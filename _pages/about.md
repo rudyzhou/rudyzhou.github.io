@@ -12,7 +12,7 @@ I am a Data and Applied Scientist at Microsoft. I got my PhD from the [Algorithm
 
 In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Operations Research (CORE) group](https://www.microsoft.com/en-us/research/group/cloud-operations-research-core/), where my mentor was [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/). Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
-Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_2_17_26.pdf),  [Google Scholar](https://scholar.google.com/citations?user=Pm-sbqQAAAAJ&hl=en), and [DBLP](https://dblp.org/pid/260/0730.html).
+Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_2_16_26.pdf),  [Google Scholar](https://scholar.google.com/citations?user=Pm-sbqQAAAAJ&hl=en), and [DBLP](https://dblp.org/pid/260/0730.html).
 
 # Research Interests
 
