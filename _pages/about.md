@@ -60,6 +60,7 @@ Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.0
 _Bayesian Probing on Graphs_ <br/>
 Integer Programming and Combinatorial Optimization (IPCO) 2026. [(Link)](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_27)
 [(arXiv)](https://arxiv.org/abs/2606.09729)
+[(Slides)](https://rudyzhou.github.io/files/bayesian-probe-IPCO26.pdf)
 
 * Benjamin Moseley, Heather Newman, Kirk Pruhs, Rudy Zhou <br/>
 _Robust Gittins for Stochastic Scheduling_ <br/>
