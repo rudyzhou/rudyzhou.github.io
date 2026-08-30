@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data and Applied Scientist at Microsoft. I got my PhD from the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/) at Carnegie Mellon, where I was advised by [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/). My thesis [_On Combinatorial and Stochastic Optimization_](https://kilthub.cmu.edu/articles/thesis/On_Combinatorial_and_Stochastic_Optimization/23615430) won the **2023 Gerald L. Thompson Doctoral Dissertation Award in Management Science**.
+I am a Data and Applied Scientist at Microsoft. I got my PhD from the [Algorithms, Combinatorics, and Optimization (ACO) Program](http://aco.math.cmu.edu/) at Carnegie Mellon, where I was advised by [Ben Moseley](http://www.andrew.cmu.edu/user/moseleyb/). My thesis [_On Combinatorial and Stochastic Optimization_](https://kilthub.cmu.edu/articles/thesis/On_Combinatorial_and_Stochastic_Optimization/23615430) won the 2023 Gerald L. Thompson Doctoral Dissertation Award in Management Science.
 
 In Summer 2022, I was an intern at Microsoft Research Redmond in the [Cloud Operations Research (CORE) group](https://www.microsoft.com/en-us/research/group/cloud-operations-research-core/), where my mentor was [Konstantina Mellou](https://www.microsoft.com/en-us/research/people/kmellou/). Previously, I obtained a MS in Computer Science and BS in Mathematics from Washington University in St. Louis, where I was advised by [Brendan Juba](https://www.cse.wustl.edu/~bjuba/).
 
@@ -16,8 +16,7 @@ Here is my [CV](https://rudyzhou.github.io/files/rudy_cv_2_16_26.pdf),  [Google 
 
 # Research Interests
 
-I am broadly interested in algorithms and optimization (especially combinatorial and stochastic) in both theory and practice. On the theory side, recently I am interested in adaptivity gaphs and hardness in stochastic combinatorial optimization. On the applied side, I build end-to-end optimization tools to improve decision making in the cloud computing supply chain.
-
+I am broadly interested in algorithms and optimization in both theory and practice. On the theory side, recently I am interested in stochastic models in combinatorial optimization. On the applied side, I build end-to-end optimization systems for cloud computing applications
 # Publications
 
 Author order is alphabetical by last name unless otherwise noted by (*).
@@ -26,7 +25,7 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * Benjamin Moseley, Kirk Pruhs, Marc Uetz, Rudy Zhou  <br/>
 _Minimizing Completion Times of Stochastic Jobs on Parallel Machines is Hard_ <br/>
-In submission. [(Link)](https://arxiv.org/abs/2601.17425)
+Workshop on Approximation and Online Algorithms (WAOA) 2026 (To appear). [(Link)](https://arxiv.org/abs/2601.17425)
 
 ## Journal Publications
 
@@ -59,7 +58,8 @@ Methods in Cell Biology, 2020. [(Link)](https://doi.org/10.1016/bs.mcb.2020.04.0
 
 * Anupam Gupta, Benjamin Moseley, Rudy Zhou <br/>
 _Bayesian Probing on Graphs_ <br/>
-Integer Programming and Combinatorial Optimization (IPCO) 2026 (To appear)
+Integer Programming and Combinatorial Optimization (IPCO) 2026. [(Link)](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_27)
+[(arXiv)](https://arxiv.org/abs/2606.09729)
 
 * Benjamin Moseley, Heather Newman, Kirk Pruhs, Rudy Zhou <br/>
 _Robust Gittins for Stochastic Scheduling_ <br/>
